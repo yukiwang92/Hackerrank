@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/electronics-shop/problem?h_r=internal-search
 function getMoneySpent(keyboards, drives, b) {
     let spent = [];
     let maxSpent = 0;

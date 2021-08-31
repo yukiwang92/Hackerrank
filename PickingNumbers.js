@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/three-month-preparation-kit-picking-numbers/problem?h_r=internal-search
 function pickingNumbers(a) {
     let map = new Map();
     let res = 0;

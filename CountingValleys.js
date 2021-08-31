@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/counting-valleys/problem?h_r=internal-search
 function countingValleys(steps, path) {
     let hikePoint = 0;
     let valleyCount = 0;

@@ -14,3 +14,14 @@ function angryProfessor(k, a) {
     }
     return answer;
 }
+// Second solution
+function angryProfessor(k, a) {
+    let answer = "";
+    let newArray = a.filter(element => element <=0)
+    if (newArray.length >= k){
+        answer = "NO"
+    } else {
+        answer = "YES"
+    }
+    return answer;
+}
